@@ -4,7 +4,6 @@ import (
 	"time"
 )
 
-// NOTE: ONE DOES NOT SIMPLY assume that Tickers are safe for concurrent access.
 type Ticker interface {
 	// Ticks returns a read-only channel delivering ticks according to a
 	// prescribed interval. The value returned does not need to be the same
