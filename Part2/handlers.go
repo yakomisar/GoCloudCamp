@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"musicplayer/Part2/player"
+	"musicplayer/player"
 	"sync"
 	"time"
 )

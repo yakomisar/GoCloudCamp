@@ -2,7 +2,7 @@ package main
 
 import (
 	"log"
-	"musicplayer/Part2/service"
+	"musicplayer/service"
 	"net/http"
 )
 
