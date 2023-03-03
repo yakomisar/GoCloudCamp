@@ -2,7 +2,7 @@ package service
 
 import (
 	"encoding/json"
-	"musicplayer/Part2/models"
+	"musicplayer/models"
 	"net/http"
 )
 

@@ -7,7 +7,7 @@ import (
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 	"log"
-	"musicplayer/Part2/models"
+	"musicplayer/models"
 	"net/http"
 )
 
